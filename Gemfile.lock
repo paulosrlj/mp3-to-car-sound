@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    multi_json (1.15.0)
+    ruby-progressbar (1.13.0)
+    streamio-ffmpeg (3.0.2)
+      multi_json (~> 1.8)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  ruby-progressbar
+  streamio-ffmpeg (~> 3.0, >= 3.0.2)
+
+BUNDLED WITH
+   2.5.18
