@@ -9,10 +9,10 @@ So, this script removes the problematic metadata and converts to a compatible st
 
 - Clone the project
 - Install the dependencies (linux):
-> sudo apt update                                             
-> sudo apt install ffmpeg
+> <pre><u style="text-decoration-style:single">sudo apt update</u></pre>
+> <pre><u style="text-decoration-style:single">sudo apt install ffmpeg</u></pre>                                 
 - Install the project dependencies:
-> bundle install
+> <pre><u style="text-decoration-style:single">bundle install</u></pre>                                 
 - Run the project:
 > <pre><font color="#42E66C">ruby</font> <u style="text-decoration-style:single">main.rb</u> <u style="text-decoration-style:single">[mp3 files folder]</u> <u style="text-decoration-style:single">[output folder]</u></pre>
 - Command example:
