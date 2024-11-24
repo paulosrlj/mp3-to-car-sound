@@ -2,7 +2,7 @@
 
 This script converts any mp3 file to 320kbps quality.
 The main goal for this script is that some car stereos only accepts .mp3 files that are at 320kbps of quality.
-So, this script converts to a compatible format
+So, this script removes the problematic metadata and converts to a compatible stereo format
 
 
 ## How to use?
